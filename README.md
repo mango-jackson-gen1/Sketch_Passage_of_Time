@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="images/Sample_Output.png" width="400" alt="Screenshot">
+  <img src="images/sample_output.png" width="600" alt="Sample Output">
 </p>
