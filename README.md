@@ -106,3 +106,7 @@ The main algorithm:
 - Edit the `grammarSource1` and `grammarSource2` objects to change the vocabulary
 - Modify the `defineColorRegions()` function to create different color palettes
 - Change the step size (default 30) in the `generate()` function to alter the color progression rate
+
+<p align="center">
+  <img src="images/sample_output.png" width="600" alt="Sample Output">
+</p>
